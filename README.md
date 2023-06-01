@@ -1,6 +1,6 @@
 # Introdução
-Alura plus é um projeto contruido com auxilio do curso de HTML e CSS: praticando HTML/CSS.
-Nele é criado um conteudo promocional dividido em algumas section anunciando a prooção e as vantagens de adiquirir o produto.
+Alura plus é um projeto construido com auxilio do curso de HTML e CSS: praticando HTML/CSS.
+Nele é criado um conteudo promocional dividido em algumas section anunciando a promoção e as vantagens de adiquirir o produto.
 Permitindo praticar responsividade e algumas repetições de padrão no HTML/CSS.
 
 ## O que aprendi no curso
